@@ -40,3 +40,6 @@ Here is the [google AI link](https://g.co/).
 Here is the [Teachable machines - AI Google link](https://teachablemachine.withgoogle.com/ "Teachable Machines").
 
 
+This is a guide on Markdown [Markdown][1].
+
+[1]: https://en.wikipedia.org/wiki/Markdown        "Markdown"

@@ -34,5 +34,9 @@ ___
 
 ![alt text](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png "SriRamajeyam")
 
+Here is the [google AI link](https://g.co/).
+
+
+Here is the [Teachable machines - AI Google link](https://teachablemachine.withgoogle.com/ "Teachable Machines").
 
 

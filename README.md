@@ -56,7 +56,7 @@ This is a guide on Markdown [Markdown][1].
     - Nested One
     - Nested Two
 
-This is a paragraph. It has two sentences.
+This is a paragraph. It has two sentences..
 
 This is another paragraph. It also has two sentences.  This is a paragraph. It has two sentences.
 

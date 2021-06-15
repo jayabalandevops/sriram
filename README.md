@@ -22,7 +22,7 @@ If you want to mark something as code, indent it by 4 spaces.
 
 Markdown is a `<em>text-to-html</em>` conversion tool for writers.
 
-Forcing a line-break\s\s
+Forcing a line-break  
 Next line in the list
 
 This is very heavily **emphasized** __text__.

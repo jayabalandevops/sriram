@@ -43,3 +43,10 @@ Here is the [Teachable machines - AI Google link](https://teachablemachine.withg
 This is a guide on Markdown [Markdown][1].
 
 [1]: https://en.wikipedia.org/wiki/Markdown        "Markdown"
+
+
++ One
+- Two
+* Three
+
+
